@@ -1,0 +1,60 @@
+.container {
+	width: 850px;
+	margin: 0 auto;
+}
+
+.clear {
+	clear: both;
+}
+
+.red {
+	color: red;
+}
+
+.green {
+	color: green;
+}
+
+.success {
+	background: green;
+	color: #fff;
+	padding: 11px 18px;
+}
+
+.error {
+	background: red;
+	color: #fff;
+	padding: 11px 18px;
+}
+
+.gold {
+	float: left;
+	margin: 19px 0;
+}
+
+.restart {
+	float: left;
+	margin: 18px 0 18px 28px;
+}
+
+.building {
+	border: 1px solid;
+	width: 180px;
+	height: 130px;
+	float: left;
+	margin-right: 18px;
+	text-align: center;
+}
+
+.log {
+	margin-top: 18px;
+}
+
+#log {
+	border: 1px solid;
+	font-size: 12px;
+	width: 760px;
+	height: 140px;
+	overflow-y: scroll;
+}
+
